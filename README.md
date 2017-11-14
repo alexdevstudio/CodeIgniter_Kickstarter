@@ -1,2 +1,2 @@
-# CodeIgniter_Kickstarter
+# CodeIgniter Kickstarter
 Basic CodeIgniter Setups to Help You Jump Right Into The Project
